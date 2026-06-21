@@ -1,0 +1,119 @@
+{
+  "site": {
+    "name": "ATS Checker"
+  },
+  "nav": {
+    "links": [
+      { "label": "Upload", "href": "#hero" },
+      { "label": "Demo", "href": "#demo" },
+      { "label": "Features", "href": "#features" },
+      { "label": "Benefits", "href": "#benefits" },
+      { "label": "About", "href": "#about" }
+    ],
+    "cta": "Analyze resume"
+  },
+  "hero": {
+    "label": "AI Resume Analysis",
+    "title": "Is Your Resume ATS-Ready? Instantly Analyze and Optimize for ATS",
+    "subtitle": "Upload your resume and get an instant AI-powered compatibility report — score, strengths, weaknesses, and actionable suggestions.",
+    "stats": [
+      "90%+ companies use ATS screening",
+      "0–100 ATS compatibility score",
+      "Results in under 30 seconds",
+      "PDF, DOCX & TXT supported",
+      "Powered by Google Gemini AI",
+      "Free — no account required"
+    ]
+  },
+  "demo": {
+    "label": "Product demo",
+    "title": "See it in action",
+    "subtitle": "Watch how ATS Checker analyzes a resume in seconds.",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  "features": {
+    "label": "Our features",
+    "title": "Everything you need to pass ATS filters — in one upload.",
+    "subtitle": "From instant scoring to actionable fixes, built for job seekers who want results fast.",
+    "items": [
+      {
+        "title": "Instant Analysis",
+        "description": "Get a detailed ATS report in seconds powered by Google Gemini AI."
+      },
+      {
+        "title": "ATS Score",
+        "description": "Receive a 0–100 compatibility score so you know exactly where you stand."
+      },
+      {
+        "title": "Strengths & Weaknesses",
+        "description": "Understand what works and what holds your resume back from passing ATS filters."
+      },
+      {
+        "title": "Actionable Suggestions",
+        "description": "Get specific, practical tips to improve formatting, keywords, and structure."
+      },
+      {
+        "title": "Privacy First",
+        "description": "Your resume is processed in-memory only — nothing is stored on our servers."
+      },
+      {
+        "title": "Multi-format Support",
+        "description": "Upload PDF, DOCX, or TXT resumes with automatic text extraction."
+      }
+    ]
+  },
+  "benefits": {
+    "label": "Why it matters",
+    "title": "Most job seekers face the same gap — qualified on paper, filtered out by bots.",
+    "subtitle": "Over 90% of large companies use ATS software to filter resumes before a human ever sees them. We help you close that gap.",
+    "items": [
+      {
+        "title": "Beat the bots",
+        "description": "Ensure your resume passes automated screening and reaches real recruiters."
+      },
+      {
+        "title": "Save hours of guesswork",
+        "description": "Stop wondering if your formatting or keywords are ATS-friendly — know for sure."
+      },
+      {
+        "title": "Land more interviews",
+        "description": "A higher ATS score means more callbacks and more opportunities."
+      },
+      {
+        "title": "Completely free to try",
+        "description": "Upload and analyze your resume at no cost. No account required."
+      }
+    ]
+  },
+  "about": {
+    "label": "Who we are",
+    "title": "Built for job seekers whose skills are ahead of how ATS systems read them.",
+    "body": "ATS Checker is a free tool for applicants who want to maximize their chances of getting past automated resume screening. Using advanced AI, we analyze your resume for formatting issues, keyword gaps, and structural problems that cause ATS systems to reject otherwise qualified candidates."
+  },
+  "cta": {
+    "title": "The right resume at the right moment changes everything.",
+    "subtitle": "Upload your resume now and get your free ATS compatibility report in seconds.",
+    "button": "Get started"
+  },
+  "footer": {
+    "tagline": "AI-powered ATS resume analysis for job seekers who want to get past the bots and reach real recruiters.",
+    "text": "© 2026 ATS Checker. Built with AI for job seekers.",
+    "columns": [
+      {
+        "title": "Product",
+        "links": [
+          { "label": "Upload resume", "href": "#hero" },
+          { "label": "Demo", "href": "#demo" },
+          { "label": "Features", "href": "#features" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "label": "About", "href": "#about" },
+          { "label": "Benefits", "href": "#benefits" }
+        ]
+      }
+    ]
+  }
+}
